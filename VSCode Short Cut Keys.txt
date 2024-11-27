@@ -1,0 +1,8 @@
+1) Alt + Downkey
+  (for change the line)  
+
+2) Alt + Shift + Down key 
+   (To replicate the line)
+3) Ctrl + /
+   (To comment and uncomment the line)
+4)
